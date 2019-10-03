@@ -1,0 +1,23 @@
+{
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "vendor/extension",
+                "type": "joomlatools-extension",
+                "version": "2.2.3",
+                "dist": {
+                    "url": "https://github.com/techjoomla/com_tjqueue/releases/download/0.0.1/pkg_tjqueue_v0.0.1_610731ad.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "joomlatools/composer": "*"
+                }
+            }
+        }
+    ],
+
+    "require": {
+        "vendor/extension": "2.2.3"
+    }
+}
