@@ -7,7 +7,7 @@
                 "type": "joomlatools-extension",
                 "version": "2.2.3",
                 "dist": {
-                    "url": "file:///home/dev-kb-core/public_html/com_tjfields.zip",
+                    "url": "https://www.dropbox.com/s/qy5n2snbjw2erx4/pkg_shika_v1.3.23_b9135b66.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -16,7 +16,6 @@
             }
         }
     ],
-
     "require": {
         "vendor/extension": "2.2.3"
     }
