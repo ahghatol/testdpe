@@ -7,7 +7,7 @@
                 "type": "joomlatools-extension",
                 "version": "2.2.3",
                 "dist": {
-                    "url": "./tmp/pkg_shika_v1.3.23_b9135b66.zip",
+                    "url": "./tmp/pkg_shika_v1.3.23_b9135b66",
                     "type": "path"
                 },
                 "require": {
